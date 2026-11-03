@@ -1,0 +1,20 @@
+{
+    "01": {
+        "item_id": "01",
+        "name": "pen",
+        "quantity": 10,
+        "price": 3500.0
+    },
+    "02": {
+        "item_id": "02",
+        "name": "Banana",
+        "quantity": 75,
+        "price": 0.3
+    },
+    "003": {
+        "item_id": "003",
+        "name": "Cherry",
+        "quantity": 200,
+        "price": 1.99
+    }
+}
