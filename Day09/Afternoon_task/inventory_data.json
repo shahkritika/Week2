@@ -1,0 +1,17 @@
+{
+    "001": {
+        "name": "Notebook",
+        "quantity": 30,
+        "price": 2.99
+    },
+    "002": {
+        "name": "Pen",
+        "quantity": 150,
+        "price": 0.75
+    },
+    "003": {
+        "name": "Eraser",
+        "quantity": 80,
+        "price": 0.5
+    }
+}
